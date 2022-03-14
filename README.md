@@ -83,7 +83,7 @@ mvn -Dsonar.coverage.jacoco.xmlReportPaths=C:\projects\sonar-scanning-examples\s
 ```
 
 We have to use an absolute path, because the report will be imported for each module separately and the path is resolved relative to the module dir.
-    
+    update
         
 ## Documentation
 
