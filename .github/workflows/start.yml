@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - master
 
   # If you start the workflow mannualy, this is the trigger and the inputs will be readed from the UI
   workflow_dispatch:
